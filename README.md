@@ -4,8 +4,8 @@ Dự án huấn luyện tác tử DQN chơi cờ tàn cuộc Vua + Hậu vs Vua.
 
 ## Cấu trúc
 
-- kqk.ipynb — Môi trường KQK bản mới (có defender, D4 augmentation, 6 kênh)
-- kqk_baseline.ipynb — Môi trường KQK bản cũ dùng cho baseline
+- kqk_v2.ipynb — Môi trường KQK bản mới (có defender, D4 augmentation, 6 kênh)
+- kqk_v1.ipynb — Môi trường KQK bản cũ dùng cho baseline
 - train_baseline_L0.ipynb — Huấn luyện giai đoạn 1 (chỉ L0)
 - training_agent_final_v2.ipynb — Huấn luyện giai đoạn 2 (curriculum + defender)
 - bao_cao_giua_ki_v2.docx — Báo cáo giữa kỳ
